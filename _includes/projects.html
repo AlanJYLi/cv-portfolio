@@ -25,9 +25,13 @@
           <h3 class="project-title">{{ project.title }}</h3>
         </div><!--//upper-row-->
         
-        <div class="upper-row">
-          <div class="project-summary">{{ project.summary }}</div>
-        </div><!--//upper-row-->
+        <div class="project-summary">{{ project.summary }}</div>
+        
+        <span class="project-linkto">
+          {% if project.link %}
+          <a href="{{ project.link }}" target="_blank">view code</a>
+          {% endif %}
+        </span>
         
       </div><!--//meta-->
       
