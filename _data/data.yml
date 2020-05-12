@@ -102,7 +102,8 @@ experiences:
 projects:
     - title: First place in Master Data Science Challenge 2020 sponsored by Amazon
       summary: Group Project (4 persons),  Python
-      link: "https://www.baidu.com"
+      codelink: "https://www.baidu.com"
+      reportlink: "https://www.163.com"
       details: |
         A data science competition sponsored by Amazon and hosted by RelationalAI. The competition focused on a real Amazon
         business problem: Weather is a driving factor of efficiency in distribution and logistics. Amazon wants teams to build a 
