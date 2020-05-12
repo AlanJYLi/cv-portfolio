@@ -105,7 +105,7 @@ projects:
       details: |
         A data science competition sponsored by Amazon and hosted by RelationalAI. The competition focused on a real Amazon
         business problem: Weather is a driving factor of efficiency in distribution and logistics. Amazon wants teams to build a 
-        model that determines the impact of weather on distribution site operations. [download this free resume/CV template here]().
+        model that determines the impact of weather on distribution site operations. [download this free resume/CV template here](www.baidu.com).
         Technical highlights:
           - Applied random forest with auto-regression model to predict weather’s impact on capacity of Amazon distribution center.
           - Built the project framework, and took the responsibility of data cleaning, feature engineering and model training..
