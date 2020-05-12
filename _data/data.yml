@@ -48,17 +48,16 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MS in Analytics
+      university: Georgia Institute of Technology
+      time: Aug 2019 - Dec 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Computational Data Analytics track with GPA 4.0.
+        Coursework: Analytic Modeling, Machine Learning, Data Analytics & Visualization, 
+        Regression Analysis, Time Series Analysis, Bayesian Statistics, Web Search and Text Mining, 
+        & Deterministic Optimization.
+        - Bullet point
+        - Bullet point
     - degree: BSc in Applied Mathematics
       university: Bristol University
       time: 2007 - 2011
