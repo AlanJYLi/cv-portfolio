@@ -126,25 +126,6 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-    papers:
-      - title: Light in darkness: Low self-control promotes altruism in crises
-        link: "https://www.tandfonline.com/doi/full/10.1080/01973533.2019.1616549?casa_token=BtX6Ljz2OvwAAAAA%3AGFGMXwn2ObsGVjNB08eEVQ1zjdlvnqhaROSoSDtvo4fM20irv3ovu25J4FvqoaXXr06GwmBL4JpP"
-        authors: Wang, Y. L., Zhang, X., Li, J., & Xie, X.
-        conference: Basic and Applied Social Psychology, 41:3, 201. (2019)
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
 skills:
     title: Skills &amp; Proficiency
 
