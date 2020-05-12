@@ -48,11 +48,13 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MS in Analytics - Computational Data Analytics track, GPA 4.0
+    - degree: MS in Analytics
       university: Georgia Institute of Technology
       time: Aug 2019 - Dec 2020
       details: |
-          - Coursework: Analytic Modeling, Machine Learning, Data Analytics & Visualization, Regression Analysis, 
+      - Computational Data Analytics track, GPA 4.0/4.0
+      
+      - Coursework: Analytic Modeling, Machine Learning, Data Analytics & Visualization, Regression Analysis, 
           Time Series Analysis, Bayesian Statistics, Web Search and Text Mining, & Deterministic Optimization.
     - degree: MS in Applied Psychology, GPA 90.3/100
       university: Peking University
