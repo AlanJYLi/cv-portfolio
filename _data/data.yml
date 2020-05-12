@@ -48,16 +48,13 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MS in Analytics
+    - degree: MS in Analytics - Computational Data Analytics track
       university: Georgia Institute of Technology
       time: Aug 2019 - Dec 2020
-      details: |
-        Computational Data Analytics track with GPA 4.0.
-        Coursework: Analytic Modeling, Machine Learning, Data Analytics & Visualization, 
-        Regression Analysis, Time Series Analysis, Bayesian Statistics, Web Search and Text Mining, 
-        & Deterministic Optimization.
-        - Bullet point
-        - Bullet point
+      details:
+          - GPA: 4.0
+          - Coursework: Analytic Modeling, Machine Learning, Data Analytics & Visualization, Regression Analysis, 
+          Time Series Analysis, Bayesian Statistics, Web Search and Text Mining, & Deterministic Optimization.
     - degree: BSc in Applied Mathematics
       university: Bristol University
       time: 2007 - 2011
@@ -177,6 +174,3 @@ skills:
 
       - name: Sketch & Photoshop
         level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
