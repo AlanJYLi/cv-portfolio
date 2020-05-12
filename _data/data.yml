@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -39,14 +39,19 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: Career Summary
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I’m now a graduate student majoring in Analytics at Georgia Tech. Before coming back to school again, 
+      I have five year working experience as business analyst in Tencent and NetEase, where I took responsibilities 
+      to deliver insight on gaming industry based on my qualitative and quantitative research on the market and the products.  
+      
+      I'm actively seeking for full-time opportunities in data science. I concentrate on expanding my knowledge and hands-on 
+      experience in statistic and programming in the past year. I have rich working knowledge on Python, R and SQL. And I have 
+      solid understanding on analytics modeling and machine learning. Besides, my former working experience has made me a quick 
+      learner and equipped me with strong business sense and result-oriented mindset.  
+      
+      Since my data science summer intern with Wayfair was cancelled due to COVID-19, I put more effort this summer to work on 
+      some personal projects to accumulate more real-world experience in data science.
 education:
     - degree: MS in Analytics
       university: Georgia Institute of Technology
