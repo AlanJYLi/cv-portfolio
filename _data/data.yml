@@ -101,9 +101,7 @@ experiences:
         supported executive decisions on market entry, market competition analysis, etc.
 projects:
     - title: First place in Master Data Science Challenge 2020 sponsored by Amazon
-      type: Group Project (4)
-      workinglanguage: Python
-      linkto: Shenzhen, China
+      summary: Type: Group Project (4),  Language: Python,  [view code](www.baidu.com),  [read report](www.baidu.com)
       details: |
         A data science competition sponsored by Amazon and hosted by RelationalAI. The competition focused on a real Amazon
         business problem: Weather is a driving factor of efficiency in distribution and logistics. Amazon wants teams to build a 
