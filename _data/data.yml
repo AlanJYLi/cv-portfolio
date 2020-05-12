@@ -41,12 +41,12 @@ sidebar:
 career-profile:
     title: Career Summary
     summary: |
-      I’m now a graduate student majoring in Analytics at Georgia Tech. Before coming back to school again, 
-      I have five year working experience as business analyst in Tencent and NetEase, where I took responsibilities 
+      I’m a graduate student majoring in Analytics at Georgia Tech. Before coming back to school again, 
+      I have 5-year working experience as business analyst in Tencent and NetEase, where I took responsibilities 
       to deliver insight on gaming industry based on my qualitative and quantitative research on the market and the products.  
       
-      I'm actively seeking for full-time opportunities in data science. I concentrate on expanding my knowledge and hands-on 
-      experience in statistic and programming in the past year. I have rich working knowledge on Python, R and SQL. And I have 
+      I'm actively seeking for full-time opportunities in data science now. As a MSA student, I concentrate on expanding my knowledge and hands-on 
+      experience in statistic and programming. I gain rich working knowledge on Python, R and SQL. And I establish 
       solid understanding on analytics modeling and machine learning. Besides, my former working experience has made me a quick 
       learner and equipped me with strong business sense and result-oriented mindset.  
       
@@ -129,14 +129,11 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Light in darkness: Low self-control promotes altruism in crises
+        link: "https://www.tandfonline.com/doi/full/10.1080/01973533.2019.1616549?casa_token=BtX6Ljz2OvwAAAAA%3AGFGMXwn2ObsGVjNB08eEVQ1zjdlvnqhaROSoSDtvo4fM20irv3ovu25J4FvqoaXXr06GwmBL4JpP"
+        authors: Wang, Y. L., Zhang, X., Li, J., & Xie, X.
+        conference: Basic and Applied Social Psychology, 41:3, 201. (2019)
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
