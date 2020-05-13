@@ -12,8 +12,11 @@ chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't wa
 # Tracker
 analytics: UA-83979019-1
 
+# reading files
 include:
   - _pages
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Sass/SCSS
 sass:
