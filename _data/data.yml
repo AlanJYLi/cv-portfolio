@@ -101,6 +101,7 @@ experiences:
         supported executive decisions on market entry, market competition analysis, etc.
 projects:
     - title: First place in Master Data Science Challenge 2020 sponsored by Amazon
+      avatar: amazon.png
       summary: Group Project (4 persons),  Python
       codelink: "https://www.baidu.com"
       reportlink: "https://www.163.com"
