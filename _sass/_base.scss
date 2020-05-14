@@ -217,13 +217,16 @@ p {
         }
         .project-summary {
 	    float: right;
-           color: $text-grey;
+            color: $text-grey;
 	    position: relative;
             left: 5px;
         }
        .project-linkto {
             margin-bottom: 10px;
             color: $text-grey;
+	    float: right;
+	    position: relative;
+	    left: 5px
         }
         .project-pic {
             max-width: 320px;
