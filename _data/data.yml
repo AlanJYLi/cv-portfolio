@@ -106,12 +106,14 @@ projects:
       codelink: "https://www.baidu.com"
       reportlink: "https://www.163.com"
       details: |
+          
     - title: Predicting Whether Applicants Repay Loans by Gradient Boosting
       pic: loans100.png
       summary: Group Project (5 persons),  Python
       codelink: "https://www.baidu.com"
       reportlink: "https://www.163.com"
       details: |
+          
 publications:
     title: Publications
     intro: |
