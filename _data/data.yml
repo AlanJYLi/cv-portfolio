@@ -102,15 +102,13 @@ experiences:
 projects:
     - title: First place in Master Data Science Challenge 2020 sponsored by Amazon
       pic: amazon100.png
-      summary: Group Project (4 persons gogogogo),  Python
+      summary: Group Project (4 persons),  Python
       codelink: "https://www.baidu.com"
       reportlink: "https://www.163.com"
       details: |
         A data science competition sponsored by Amazon and hosted by RelationalAI. The competition focused on a real Amazon
         business problem: Weather is a driving factor of efficiency in distribution and logistics. Amazon wants teams to build a 
         model that determines the impact of weather on distribution site operations. Technical highlights:
-          - Applied random forest with auto-regression model to predict weather’s impact on capacity of Amazon distribution center.
-          - Built the project framework, and took the responsibility of data cleaning, feature engineering and model training..
 publications:
     title: Publications
     intro: |
