@@ -18,25 +18,21 @@
 
   {% for project in projects %}
     <div class="item">
-      
-      <div class="meta">
         
-        <img class="project-pic" src="{{ site.baseurl }}/assets/images/{{ project.pic }}" />
+      <img class="project-pic" src="{{ site.baseurl }}/assets/images/{{ project.pic }}" />
         
-        <h3 class="project-title">{{ project.title }}</h3>
+      <h3 class="project-title">{{ project.title }}</h3>
         
-        <div class="project-summary">{{ project.summary }}</div>
+      <div class="project-summary">{{ project.summary }}</div>
         
-        <span class="project-linkto">
-          {% if project.codelink %}
-          <a href="{{ project.codelink }}" target="_blank"><u>view code</u></a>
-          {% endif %}
-          {% if project.reportlink %}
-          <a href="{{ project.reportlink }}" target="_blank"><u>read report</u></a>
-          {% endif %}
-        </span>
-        
-      </div><!--//meta-->
+      <span class="project-linkto">
+        {% if project.codelink %}
+        <a href="{{ project.codelink }}" target="_blank"><u>view code</u></a>
+        {% endif %}
+        {% if project.reportlink %}
+        <a href="{{ project.reportlink }}" target="_blank"><u>read report</u></a>
+        {% endif %}
+      </span>
       
       {% if project.details %}
         <div class="details">
