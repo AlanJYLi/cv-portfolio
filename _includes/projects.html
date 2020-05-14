@@ -17,36 +17,33 @@
   {% endif %}
 
   {% for project in projects %}
-    <div class="item">
+  <div class="item">
       
-      <div class="project-frame">
+    <div class="project-frame">
         
-        <img class="project-pic" src="{{ site.baseurl }}/assets/images/{{ project.pic }}" style="vertical-align:middle;" />
-        
-        <h3 class="project-title">{{ project.title }}</h3>
-        
-        <div class="project-summary">{{ project.summary }}</div>
-        
-        <div class="project-linkto">
-          <span>
-            {% if project.codelink %}
-            <a href="{{ project.codelink }}" target="_blank"><u>view code</u></a>
-            {% endif %}
-            {% if project.reportlink %}
-            <a href="{{ project.reportlink }}" target="_blank"><u>read report</u></a>
-            {% endif %}
-          </span>
-        </div><!--//project-linkto-->
-      </div><!--//project-frame-->
+      <img class="project-pic" src="{{ site.baseurl }}/assets/images/{{ project.pic }}" />
+      <h3 class="project-title">{{ project.title }}</h3>
+      <div class="project-summary">{{ project.summary }}</div>
+      <div class="project-linkto">
+        <span>
+          {% if project.codelink %}
+          <a href="{{ project.codelink }}" target="_blank"><u>view code</u></a>
+          {% endif %}
+          {% if project.reportlink %}
+          <a href="{{ project.reportlink }}" target="_blank"><u>read report</u></a>
+          {% endif %}
+        </span>
+      </div><!--//project-linkto-->
+    </div><!--//project-frame-->
       
-      {% if project.details %}
-        <div class="details">
-          {{ project.details | markdownify }}
-        </div><!--//details-->
-      {% endif %}
+    {% if project.details %}
+      <div class="details">
+        {{ project.details | markdownify }}
+      </div><!--//details-->
+    {% endif %}
       
-    </div><!--//item-->
-    {% endfor %}
+  </div><!--//item-->
+  {% endfor %}
         
 </section><!--//section-->
 {% endif %}
