@@ -102,7 +102,8 @@ experiences:
 projects:
     - title: First place in Master Data Science Challenge sponsored by Amazon
       pic: amazon100.png
-      summary: Group Project (4 persons),  Python
+      summary: Python
+      aboutlink: "https://www.baidu.com"
       codelink: "https://www.baidu.com"
       reportlink: "https://www.163.com"
       keyword: Keywords:Weather Impact on Distribution Operation, Random Forest with Auto-regressor
@@ -110,7 +111,8 @@ projects:
         ***************
     - title: Predicting Whether Applicants Repay Loans by Gradient Boosting
       pic: loans100.png
-      summary: Group Project (5 persons),  Python
+      summary: Python
+      aboutlink: "https://www.baidu.com"
       codelink: "https://www.baidu.com"
       reportlink: "https://www.163.com"
       keyword: Keywords:Classification, Gradient Boosting, Imbalanced Data, Bayesian Optimization
