@@ -204,32 +204,34 @@ p {
         top: 0;
         color: $text-grey;    
     }
-    .project-title {
-        color: $text-color;
-        font-size: 16px;
-        margin-top: 0;
-        margin-bottom: 0;
-        font-weight: 500;
-	float: right;
-	position: relative;
-        left: 5px;
-    }
-    .project-summary {
-	float: right;
-        color: $text-grey;
-	position: relative;
-        left: 5px;
-    }
-    .project-linkto {
-        margin-bottom: 10px;
-        color: $text-grey;
-    }
-    .project-pic {
-        max-width: 320px;
-        margin-bottom: 15px;
-        border: 0px solid #fff;
-        box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
-	float: left;
+    .project-frame {
+        .project-title {
+            color: $text-color;
+            font-size: 16px;
+            margin-top: 0;
+            margin-bottom: 0;
+            font-weight: 500;
+	    float: right;
+	    position: relative;
+            left: 5px;
+        }
+        .project-summary {
+	    float: right;
+           color: $text-grey;
+	    position: relative;
+            left: 5px;
+        }
+       .project-linkto {
+            margin-bottom: 10px;
+            color: $text-grey;
+        }
+        .project-pic {
+            max-width: 320px;
+            margin-bottom: 15px;
+            border: 0px solid #fff;
+            box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+	    float: left;
+	}
     }
 
     .publication-title {
