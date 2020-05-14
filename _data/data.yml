@@ -105,7 +105,7 @@ projects:
       summary: Group Project (4 persons),  Python
       codelink: "https://www.baidu.com"
       reportlink: "https://www.163.com"
-      keyword: Keywords: Weather Impact on Distribution Operation, Random Forest with Auto-regressor
+      keyword: Keywords:Weather Impact on Distribution Operation, Random Forest with Auto-regressor
       details: |
         ***************
     - title: Predicting Whether Applicants Repay Loans by Gradient Boosting
@@ -113,7 +113,7 @@ projects:
       summary: Group Project (5 persons),  Python
       codelink: "https://www.baidu.com"
       reportlink: "https://www.163.com"
-      keyword: Keywords: Classification, Gradient Boosting, Imbalanced Data, Bayesian Optimization
+      keyword: Keywords:Classification, Gradient Boosting, Imbalanced Data, Bayesian Optimization
       details: |
         ***************
 publications:
