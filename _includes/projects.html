@@ -19,7 +19,9 @@
       <h3 class="project-title">{{ project.title }}</h3>
       <div class="project-keyword">{{ project.keyword }}</div>
       <div class="project-summary">
+        {% if project.summary %}
         <span>{{ project.summary }}</span>
+        {% endif %}
         <span>
           <a href="{{ project.aboutlink }}" target="_top"><u>About</u></a>
           {% if project.codelink %}
