@@ -118,6 +118,33 @@ projects:
       keyword: Keywords:Classification, Gradient Boosting, Imbalanced Data, Bayesian Optimization, Python
       details: |
         ***************
+    - title: Sentiment Classification of Game Reviews with Semi-supervised Topic Analysis
+      pic: steam100.png
+      summary:
+      aboutlink: "https://www.baidu.com"
+      codelink: "https://www.baidu.com"
+      reportlink: "https://www.163.com"
+      keyword: Keywords:NLP, Sentiment Analysis, guided-LDA, Word2Vec, Game Reivews, Python
+      details: |
+        ***************
+    - title: Factors Influencing Number of Covid-19 Cases in Different Provinces of China
+      pic: covid100.png
+      summary:
+      aboutlink: "https://www.baidu.com"
+      codelink: "https://www.baidu.com"
+      reportlink: "https://www.163.com"
+      keyword: Keywords:Bayesian Regression, Gibbs Sampling, MCMC, COVID-19, R
+      details: |
+        ***************
+    - title: A European Social Survey on How Political Attitude and Behavior Influence Happiness
+      pic: happy100.png
+      summary:
+      aboutlink: "https://www.baidu.com"
+      codelink: "https://www.baidu.com"
+      reportlink: "https://www.163.com"
+      keyword: Keywords:Ordinal Logistic Regression, Sub-sampling, Subjective Happiness, R
+      details: |
+        ***************
 publications:
     title: Publications
     intro: |
