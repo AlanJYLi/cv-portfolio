@@ -24,6 +24,18 @@ a {
     }
 }
 
+b {
+    color: $text-grey;
+    font-weight: bold;
+    &:hover {
+        text-decoration: underline;
+        color: $text-grey;
+    }
+    &:focus {
+        text-decoration: none;
+    }
+}
+
 p {
     line-height: 1.5;
 }
