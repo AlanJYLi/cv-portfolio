@@ -19,16 +19,14 @@
       <h3 class="project-title">{{ project.title }}</h3>
       <div class="project-summary">
         <span>{{ project.summary }}</span>
-        <div class="project-linkto">
-          <span>
-            {% if project.codelink %}
-            <a href="{{ project.codelink }}" target="_blank"><u>view code</u></a>
-            {% endif %}
-            {% if project.reportlink %}
-            <a href="{{ project.reportlink }}" target="_blank"><u>read report</u></a>
-            {% endif %}
-          </span>
-        </div><!--//project-linkto-->
+        <span>
+          {% if project.codelink %}
+          <a href="{{ project.codelink }}" target="_blank"><u>view code</u></a>
+          {% endif %}
+          {% if project.reportlink %}
+          <a href="{{ project.reportlink }}" target="_blank"><u>read report</u></a>
+          {% endif %}
+        </span>
       </div><!--//project-summary-->
       <div class="project-keyword">{{ project.keyword }}</div>
     </div><!--//project-frame-->
