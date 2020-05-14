@@ -105,6 +105,7 @@ projects:
       summary: Group Project (4 persons),  Python
       codelink: "https://www.baidu.com"
       reportlink: "https://www.163.com"
+      details: |
 publications:
     title: Publications
     intro: |
