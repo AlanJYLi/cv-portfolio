@@ -106,9 +106,9 @@ projects:
       codelink: "https://www.baidu.com"
       reportlink: "https://www.163.com"
       details: |
-        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+        A data science competition sponsored by Amazon and hosted by RelationalAI. The competition focused on a real 
+        Amazon business problem: Weather is a driving factor of efficiency in distribution and logistics. Amazon wants 
+        teams to build a model that determines the impact of weather on distribution site operations. 
 publications:
     title: Publications
     intro: |
