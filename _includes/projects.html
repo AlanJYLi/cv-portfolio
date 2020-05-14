@@ -10,12 +10,6 @@
     Data Science Projects
   </h2>
 
-  {% if projects.intro %}
-  <div class="intro">
-      <p>{{ projects.intro }}</p>
-  </div><!--//intro-->
-  {% endif %}
-
   {% for project in projects %}
   <div class="item">
       
@@ -35,12 +29,6 @@
         </span>
       </div><!--//project-linkto-->
     </div><!--//project-frame-->
-      
-    {% if project.details %}
-      <div class="details">
-        {{ project.details | markdownify }}
-      </div><!--//details-->
-    {% endif %}
       
   </div><!--//item-->
   {% endfor %}
