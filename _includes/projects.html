@@ -27,14 +27,16 @@
         
         <div class="project-summary">{{ project.summary }}</div>
         
-        <span class="project-linkto">
-          {% if project.codelink %}
-          <a href="{{ project.codelink }}" target="_blank"><u>view code</u></a>
-          {% endif %}
-          {% if project.reportlink %}
-          <a href="{{ project.reportlink }}" target="_blank"><u>read report</u></a>
-          {% endif %}
-        </span>
+        <div class="project-linkto">
+          <span>
+            {% if project.codelink %}
+            <a href="{{ project.codelink }}" target="_blank"><u>view code</u></a>
+            {% endif %}
+            {% if project.reportlink %}
+            <a href="{{ project.reportlink }}" target="_blank"><u>read report</u></a>
+            {% endif %}
+          </span>
+        </div>
       </div><!--//project-frame-->
       
       {% if project.details %}
