@@ -21,7 +21,7 @@
         <span>{{ project.summary }}</span>
         <span>
           {% if project.codelink %}
-          <b href="{{ project.codelink }}" target="_blue"><u>  Github</u></b>
+          <a href="{{ project.codelink }}" target="_blue"><u>  Github</u></a>
           {% endif %}
           {% if project.reportlink %}
           <a href="{{ project.reportlink }}" target="_blue"><u>Full Report</u></a>
