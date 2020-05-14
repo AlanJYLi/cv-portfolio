@@ -17,18 +17,19 @@
         
       <img class="project-pic" src="{{ site.baseurl }}/assets/images/{{ project.pic }}" />
       <h3 class="project-title">{{ project.title }}</h3>
+      <div class="project-keyword">{{ project.keyword }}</div>
       <div class="project-summary">
         <span>{{ project.summary }}</span>
         <span>
+          <a href="{{ project.aboutlink }}" target="_top"><u>About</u></a>
           {% if project.codelink %}
-          <a href="{{ project.codelink }}" target="_blank"><u>  Github</u></a>
+          <a href="{{ project.codelink }}" target="_blank"><u>Github</u></a>
           {% endif %}
           {% if project.reportlink %}
           <a href="{{ project.reportlink }}" target="_blank"><u>Full Report</u></a>
           {% endif %}
         </span>
       </div><!--//project-summary-->
-      <div class="project-keyword">{{ project.keyword }}</div>
     </div><!--//project-frame-->
     
     {% if project.details %}
