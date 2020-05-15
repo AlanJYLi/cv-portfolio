@@ -7,7 +7,9 @@ permalink: /MDSC2020/
 
 ### Weather Impact on Distribution Site Operations
 <div style="color:#97AAC3">
-  Group Project (4 persons)  
+  Group Project (4 persons)
+</div><!--//project-summary-->
+<div style="color:#97AAC3">
   Mar, 2020
 </div><!--//project-summary-->
 *******************
