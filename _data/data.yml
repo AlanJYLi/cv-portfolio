@@ -110,8 +110,8 @@ projects:
       pic: loans100.png
       summary:
       aboutlink: "https://www.baidu.com"
-      codelink: "https://www.baidu.com"
-      reportlink: "https://www.163.com"
+      codelink: "https://github.com/AlanJYLi/project_loan_default_detection/tree/master/code"
+      reportlink: "https://alanjyli.github.io/project_loan_default_detection/"
       keyword: Keywords:Classification, Gradient Boosting, Imbalanced Data, Bayesian Optimization, Python
       details: |
         ***************
