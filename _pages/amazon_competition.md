@@ -5,6 +5,6 @@ permalink: /MDSC2020/
 
 ### Weather Impact on Distribution Site Operations
 
-![banner](assets/images/amazon800.png)
+<img src="{{ site.baseurl }}/assets/images/amazon800.png" />
 
 #### Introduction
