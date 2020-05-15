@@ -31,12 +31,12 @@ sidebar:
       - idiom: Mandarin
         level: Native
 
-    interests:
-      - item:
-        link:
+    #interests:
+     # - item:
+     #   link:
 
-      - item:
-        link:
+     # - item:
+     #   link:
 
 career-profile:
     title: Personal Introduction
