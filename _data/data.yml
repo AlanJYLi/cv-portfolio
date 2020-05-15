@@ -73,8 +73,8 @@ education:
         - GPA 87.4/100 in Psychology and 86.5/100 in Economics  
 experiences:
     - role: Business Analyst
-      time: Jan 2016 - Apr 2019
       company: Tencent
+      time: Jan 2016 - Apr 2019
       location: Shenzhen, China
       details: |
         I worked as business analyst in Interactive and Entertainment Group of Tencent. 
@@ -89,8 +89,8 @@ experiences:
           researching on the trend of the MMORPG (Massive Multiplayer Online Role-Playing Game) market and identifying 
           the success factors in the market and internal business challenge.
     - role: Business Analyst
-      time: Jul 2014 - Dec 2015
       company: NetEase
+      time: Jul 2014 - Dec 2015
       location: Hangzhou, China
       details: |
         I worked as business analyst in Strategic Development Center of NetEase Game. I conducted strategic research and 
