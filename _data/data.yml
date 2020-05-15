@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: alanli@gatech.edu
-    phone: 470 443 8171
+    phone:
     website:  #do not add http://
     linkedin: alan-lijingyu
     github: AlanJYLi
@@ -32,10 +32,10 @@ sidebar:
         level: Native
 
     interests:
-      - item: Volleyball
+      - item:
         link:
 
-      - item: Digital Games
+      - item:
         link:
 
 career-profile:
