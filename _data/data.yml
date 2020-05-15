@@ -107,6 +107,7 @@ projects:
       codelink: "https://www.baidu.com"
       reportlink: "https://www.163.com"
       keyword: Keywords:Weather Impact on Distribution Operation, Random Forest with Auto-regressor, Python
+      confidential: Report and code cannot be published for confidential reasons
       details: |
         ***************
     - title: Predicting Whether Applicants Repay Loans by Gradient Boosting
