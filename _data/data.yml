@@ -104,8 +104,8 @@ projects:
       pic: amazon100.png
       summary:
       aboutlink: "https://www.baidu.com"
-      codelink: "https://www.baidu.com"
-      reportlink: "https://www.163.com"
+      codelink:
+      reportlink:
       keyword: Keywords:Weather Impact on Distribution Operation, Random Forest with Auto-regressor, Python
       confidential: Report and code cannot be published for confidential reasons
       details: |
