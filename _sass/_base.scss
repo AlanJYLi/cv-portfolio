@@ -126,6 +126,30 @@ p {
             margin-bottom: 0px;
         }
     }
+    .job-title {
+        font-size: 14px;
+        margin-top: 0;
+        margin-bottom: 5px;
+    }
+    .experiences-container {
+        .item {
+            margin-bottom: 15px;
+            &:last-child {
+                margin-bottom: 0;
+            }
+        }
+        .meta {
+            color: rgba(256, 256, 256, 0.6);
+            font-weight: 500;
+            margin-bottom: 0px;
+            margin-top: 0;
+        }
+        .time {
+            color: rgba(256, 256, 256, 0.6);
+            font-weight: 500;
+            margin-bottom: 0px;
+        }
+    }
     .languages-container {
         .lang-desc {
             color: rgba(256, 256, 256, 0.6);
