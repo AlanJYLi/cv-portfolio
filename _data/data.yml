@@ -124,7 +124,7 @@ projects:
       aboutlink: "https://www.baidu.com"
       codelink: "https://www.baidu.com"
       reportlink: "https://www.163.com"
-      keyword: Keywords:NLP, Sentiment Analysis, guided-LDA, Word2Vec, Game Reivews, Python
+      keyword: Keywords:NLP, Sentiment Analysis, Semi-supervised LDA, Word2Vec, Python
       details: |
         ***************
     - title: Factors Influencing Number of Covid-19 Cases in Different Provinces of China
@@ -143,6 +143,15 @@ projects:
       codelink: "https://www.baidu.com"
       reportlink: "https://www.163.com"
       keyword: Keywords:Ordinal Logistic Regression, Sub-sampling, Subjective Happiness, R
+      details: |
+        ***************
+    - title: Intersection Congestion Pattern and Traffic Bottleneck Identification in Cities
+      pic: congestion100.png
+      summary:
+      aboutlink: "https://www.baidu.com"
+      codelink: "https://www.baidu.com"
+      reportlink: "https://www.163.com"
+      keyword: Keywords:Gaussian Mixture Model, AMOEBA Algorithm, GIS-based Visualization, Python
       details: |
         ***************
 publications:
