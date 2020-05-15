@@ -41,17 +41,11 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      I’m a graduate student majoring in Analytics at Georgia Tech. Before coming back to school again, 
-      I have 5-year working experience as business analyst in Tencent and NetEase, where I took responsibilities 
-      to deliver insight on gaming industry based on my qualitative and quantitative research on the market and the products.  
-      
-      I'm actively seeking for full-time opportunities in data science now. As a MSA student, I concentrate on expanding my knowledge and hands-on 
-      experience in statistic and programming. I gain rich working knowledge on Python, R and SQL. And I establish 
-      solid understanding on analytics modeling and machine learning. Besides, my former working experience has made me a quick 
-      learner and equipped me with strong business sense and result-oriented mindset.  
-      
-      Since my data science summer intern with Wayfair was cancelled due to COVID-19, I put more effort this summer to work on 
-      some personal projects to accumulate more real-world experience in data science.
+      Hi, I'm Alan. I am currently pursuing a Master's degree in Analytics at Georgia Tech and actively seeking for 
+      full-time opportunities in data science. Prior to coming back to campus again, I have 5-year working experience 
+      as business analyst in Tencent and NetEase. I'm a data enthusiast with proficient knowledge in statistics, analytics 
+      modeling and machine learning and extensive hands-on experience in applying big data tools including Python, R, SQL and 
+      Tableau. I can be reached at alanli@gatech.edu.
 education:
     - degree: MS in Analytics
       university: Georgia Institute of Technology
