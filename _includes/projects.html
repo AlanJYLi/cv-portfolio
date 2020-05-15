@@ -31,6 +31,9 @@
           <a href="{{ project.reportlink }}" target="_blank"><u>Full Report</u></a>
           {% endif %}
         </span>
+        {% if project.confidential %}
+          <span>{{ project.confidential }}</span>
+        {% endif %}
       </div><!--//project-summary-->
     </div><!--//project-frame-->
     
