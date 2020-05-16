@@ -36,4 +36,5 @@ The business problem of the competition is to build a model that determines the 
 
 <img src="/cv-portfolio/assets/images/mdsc4.png" />
 
+<a href="javascript:history.back()">Go Back</a>
 <p align="right"><a href="https://alanjyli.github.io/cv-portfolio" target="_top"><u>Back to Home</u></a></p>
