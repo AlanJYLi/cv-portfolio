@@ -22,9 +22,11 @@ I applied Bayesian regression models and implemented Markov Chain Monte Carlo (G
 <br/>
 
 #### Project Findings
-Among the factors, this project found that TravelConnection and GDP are positively related to the number of confirmed COVID-19 cases. 
-- TravelConnection is an indirectmatrics that reflects the number of people who travelled from Wuhan to other provinces and how close the two places are related with each other in terms of population migration before Spring Festival. As expected, it has a positive effect.
-- As for GDP, the result is a bit out of expectation. One possible explanation is that economic activities in China are highly correlated among provinces. People in provinces with higher GDP may have more travel needs. As a result, their exposure risk can also be higher.
+Among the factors, this project found that **TravelConnection** and **GDP** are positively related to the number of confirmed COVID-19 cases. 
+- TravelConnection is an indirect matrics that reflects the number of people who travelled from Wuhan to other provinces and how close the two places are related with each other in terms of population migration before Spring Festival. As expected, it has a positive effect.  
+
+- As for GDP, the result is a bit out of expectation. One possible explanation is that economic activities in China are highly correlated among provinces. People in provinces with higher GDP may have more travel needs. As a result, their exposure risk can also be higher.  
+
 - In contrast, this project didn’t show any evidence that the population has an effect on the number of confirmed cases. One of the main reasons is that Chinese government took action to lockdown cities and force self-quarantine in a relatively quick way, and these orders were executed strictly, which effectively decreased inter-personal contact and slowed down local spread in each province.
 
 <img src="/cv-portfolio/assets/images/covid2.png" />
