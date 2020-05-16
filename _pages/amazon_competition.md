@@ -35,3 +35,5 @@ The business problem of the competition is to build a model that determines the 
 <img src="/cv-portfolio/assets/images/amazonslide3.png" />
 
 <img src="/cv-portfolio/assets/images/amazonslide4.png" />
+
+<img src="/cv-portfolio/assets/images/Slide00.png" />
