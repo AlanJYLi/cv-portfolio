@@ -13,27 +13,29 @@ permalink: /happiness/
   
   
 #### Introduction
-Master Data Science Challenge 2020 is a data science competition held by Amazon and Relational AI, facing students from any graduate-level program at Georgia Tech. The judges applied a rubric relying on 70% prediction accuracy / error, and 30% from creativity, process, and clarity of explanation. Our team won the **first place** (prize: $10,000) and was invited to present our Technical Report and have a Q&A session with key members of the Amazon Data Science team.  
+Subjective happiness is important for human beings. Our project focus on explore how political attitude and behavior influence subjective happiness based on the data set of European Social Survey. As the response variable is ordinal variable, we apply Ordinal Logistic Regression in our research. Modeling upon the whole data set (~42k observations), we get a full model in which almost all variables are statistically significant. Considering that the size of the data set is large, the coefficients are more likely to be statistically significant. Thus, we apply subsampling method, which generates small samples for many times and fits model on each small sub-sample, to do variable selection and to check the significance of different explanatory variables in order to achieve more robust results. Based on the results from subsampling, we find that individual’s confidence in own ability to participate in politics, general satisfaction on social environment and the degree of political behavior involvement have positive effect on happiness, while participants’ general trust to political entities has negative effect on their subjective happiness.
 
-The business problem of the competition is to build a model that determines the impact of weather on site operations. In detail, the dataset contains a response variable called Impact Score, created by Amazon data science team. The predictor variables are weather related parameters (around 100 parameters like wind speed, pressure, temperature, etc.) at zip5 level corresponding to each distribution facility. Historical data from Jan 1st, 2017 to Dec 31st, 2018 are provided, including 91 sampled facilities. The goal is to predicting daily Impact Score in 2019 of all these 91 distribution sites.  
-
-<br/>
-
-#### Key Contributions and Highlights
-1.Led the team to build the project framework and managed the project progress.   
-2.Main contributor in data cleaning, EDA, feature engineering and model training.
-- Identified four operation patterns among all of the sampled distribution sites based on daily Impact Score, and proposed to conduct deck research and assign predicting values manually for closed sites and special sites.
-- Adopted Trewartha climate types as new features to augment the analysis and improved the model performance.
-
-<img src="/cv-portfolio/assets/images/mdsc1.png" />
-
-<img src="/cv-portfolio/assets/images/mdsc2.png" />
+<img src="/cv-portfolio/assets/images/happy1.png" />
 
 <br/>
-- Proposed and implemented three approaches in modeling and indentified the best model: random forest regression with auto-regressor
 
-<img src="/cv-portfolio/assets/images/mdsc3.png" />
+#### Implementation of Subsampling
+Applying subsampling method, we generated a random sample with smaller size from the original dataset. Upon the sub-sample set, we ran Ordinal Logistic Regression to get p-value of the hypothesis testing on each coefficient and confidence interval of each coefficient. We repeated the subsampling process for 100 times.  
 
-<img src="/cv-portfolio/assets/images/mdsc4.png" />
+- First, we compared the distribution of 100 p-values corresponding to the same predictor against the Uniform distribution. If the distribution of p-values doesn't follow a Uniform distribution, it's more likely that the effect of the predictor is significant.  
+
+- Then, we also calculated the average confidence interval for each coefficient to check whether zero is included in.  
+
+- Besides, we used each sub-sample to run stepwise Ordinal Logistic Regression and counted how many times each variable was selected among 100 sub-samples.  
+
+According to all the three aspects of evidence, we found that,  
+
+- **Ability to Participate (“cptppolaa”)**: individual’s confidence in own ability to participate in politics have significant influence on happiness. Compared to baseline (not at all confident), other groups have higher level of happiness. And the higher the confidence, the happier the person will be.  
+
+- **General Trust to Political Entities (“generaltrust”)**: general trust has a negative coefficient, which indicates that for the individuals who trust the political entities more, they are relatively not happy.  
+
+- **General Satisfaction on Social Environment (“generalsatisfaction”)**: general satisfaction has a positive coefficient, which indicates that if a person is more satisfied with the social environment, he will also be happier.  
+
+- **Political Behavior Involvement (“behaviorinvolvment”)**: compared to baseline (not at all), the coefficients of other groups are positive, which means some degree of involvement will increase subjective happiness.  
 
 <p align="right"><a href="javascript:history.back()"><u>Back to Home</u></a></p>
