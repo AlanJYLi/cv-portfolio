@@ -124,7 +124,7 @@ projects:
       keyword: Keywords:NLP, Sentiment Analysis, Semi-supervised LDA, Word2Vec, Python
       details: |
         ***************
-    - title: Factors Influencing Number of Covid-19 Cases in Different Provinces of China
+    - title: Factors Influencing Number of Covid-19 Cases in Different Provinces of Mainland China
       pic: covid100.png
       summary:
       aboutlink: "https://alanjyli.github.io/cv-portfolio/covid19/"
