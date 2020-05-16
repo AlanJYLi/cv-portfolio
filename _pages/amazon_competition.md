@@ -25,15 +25,13 @@ The business problem of the competition is to build a model that determines the 
 - Identified four operation patterns among all of the sampled distribution sites based on daily Impact Score, and proposed to conduct deck research and assign predicting values manually for closed sites and special sites.
 - Adopted Trewartha climate types as new features to augment the analysis and improved the model performance.
 
-<img src="/cv-portfolio/assets/images/amazonslide1.png" />
+<img src="/cv-portfolio/assets/images/mdsc1.png" />
 
-<img src="/cv-portfolio/assets/images/amazonslide2.png" />
+<img src="/cv-portfolio/assets/images/mdsc2.png" />
 
 <br/>
 - Proposed and implemented three approaches in modeling and indentified the best model: random forest regression with auto-regressor
 
-<img src="/cv-portfolio/assets/images/amazonslide3.png" />
+<img src="/cv-portfolio/assets/images/mdsc3.png" />
 
-<img src="/cv-portfolio/assets/images/amazonslide4.png" />
-
-<img src="/cv-portfolio/assets/images/Slide00.png" />
+<img src="/cv-portfolio/assets/images/mdsc4.png" />
