@@ -5,7 +5,7 @@ permalink: /covid19/
 
 <img src="/cv-portfolio/assets/images/covid600.png" />
 
-### Factors Influencing Number of Covid-19 Cases in Different Provinces of China
+### Bayesian Regression Analysis on Factors Influencing Number of Covid-19 Cases in Different Provinces of Mainland China
 <div style="color:#97AAC3">
   Individual Project &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Apr, 2020
 </div>
