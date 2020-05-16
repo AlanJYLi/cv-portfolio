@@ -136,7 +136,7 @@ projects:
     - title: A European Social Survey on How Political Attitude and Behavior Influence Happiness
       pic: happy100.png
       summary:
-      aboutlink: "https://alanjyli.github.io/cv-portfolio/subjective_happiness/"
+      aboutlink: "https://alanjyli.github.io/cv-portfolio/happiness/"
       codelink: "https://github.com/AlanJYLi/project_social_survey_happiness"
       reportlink: "https://github.com/AlanJYLi/project_social_survey_happiness/blob/master/Project%20Report.pdf"
       keyword: Keywords:Ordinal Logistic Regression, Sub-sampling, Subjective Happiness, R
