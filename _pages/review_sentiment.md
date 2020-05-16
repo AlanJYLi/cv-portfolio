@@ -32,7 +32,7 @@ Understanding sentiment of game reviews is important for game developers as well
 
 2.Implemented code for bag-of-word embeddings, topic analysis, Gradient Boosting classification and Bayesian Optimization and gained hands-on experience on NLP and text mining.  
 
-3.Main contributor of project report and presentation slides
+3.Main contributor of project report and presentation slides.
 
 <br/>
 
