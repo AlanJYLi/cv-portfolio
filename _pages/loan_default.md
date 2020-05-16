@@ -7,7 +7,7 @@ permalink: /loan_default/
 
 ### Boosting credit default detection: Predict how capable applicants are of repaying loans by Gradient Boosting Method
 <div style="color:#97AAC3">
-  Group Project (3 persons) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Feb, 2020 - Apr, 2020
+  Group Project (5 persons) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Feb, 2020 - Apr, 2020
 </div>
 *******************
   
