@@ -118,7 +118,7 @@ projects:
     - title: Sentiment Classification of Game Reviews with Semi-supervised Topic Analysis
       pic: steam100.png
       summary:
-      aboutlink: "https://www.baidu.com"
+      aboutlink: "https://alanjyli.github.io/cv-portfolio/review_sentiment/"
       codelink: "https://github.com/AlanJYLi/project_review_sentiment_analysis"
       reportlink: "https://github.com/AlanJYLi/project_review_sentiment_analysis/blob/master/Report13_S20.pdf"
       keyword: Keywords:NLP, Sentiment Analysis, Semi-supervised LDA, Word2Vec, Python
