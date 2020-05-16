@@ -23,7 +23,9 @@
         <span>{{ project.summary }}</span>
         {% endif %}
         <span>
+          {% if project.aboutlink %}
           <a href="{{ project.aboutlink }}" target="_top"><u>About</u></a>
+          {% endif %}
           {% if project.codelink %}
           <a href="{{ project.codelink }}" target="_blank"><u>Github</u></a>
           {% endif %}
