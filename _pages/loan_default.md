@@ -25,9 +25,9 @@ Our project focuses on using supervised and unsupervised machine learning techni
 
 #### Key Contributions and Highlights
 1.Led the team to build the project framework and end-to-end working pipeline, and managed the project progress.   
-2.Built Gradient Boosting Classification model on loan default detection and achieved better predicting performance compared with baseline models (e.g. Logistic Regression, Decision Tree, Random Forest and Naive Bayes).
-3.Applied Bayesian Optimization approach in hyperparameter tuning which improved the efficiency of model selection.
-4.Gained experience in handling imbalanced data in classification problems and applied SMOTE (Synthetic Minority Oversampling Technique) method to oversample the minority class
+2.Built Gradient Boosting Classification model on loan default detection and achieved better predicting performance compared with baseline models (e.g. Logistic Regression, Decision Tree, Random Forest and Naive Bayes).  
+3.Applied Bayesian Optimization approach in hyperparameter tuning which improved the efficiency of model selection.  
+4.Gained experience in handling imbalanced data in classification problems and applied SMOTE (Synthetic Minority Oversampling Technique) method to oversample the minority class.
 
 <br/>
 
