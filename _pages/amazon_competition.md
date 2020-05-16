@@ -36,4 +36,4 @@ The business problem of the competition is to build a model that determines the 
 
 <img src="/cv-portfolio/assets/images/mdsc4.png" />
 
-[back to main](https://alanjyli.github.io/cv-portfolio)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[back to main](https://alanjyli.github.io/cv-portfolio)
