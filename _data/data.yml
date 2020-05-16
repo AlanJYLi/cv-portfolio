@@ -109,7 +109,7 @@ projects:
     - title: Predicting Whether Applicants Repay Loans by Gradient Boosting
       pic: loans100.png
       summary:
-      aboutlink: "https://www.baidu.com"
+      aboutlink: "https://alanjyli.github.io/cv-portfolio/loan_default/"
       codelink: "https://github.com/AlanJYLi/project_loan_default_detection/tree/master/code"
       reportlink: "https://alanjyli.github.io/project_loan_default_detection/"
       keyword: Keywords:Classification, Gradient Boosting, Imbalanced Data, Bayesian Optimization, Python
@@ -127,7 +127,7 @@ projects:
     - title: Factors Influencing Number of Covid-19 Cases in Different Provinces of China
       pic: covid100.png
       summary:
-      aboutlink: "https://www.baidu.com"
+      aboutlink: "https://alanjyli.github.io/cv-portfolio/covid19/"
       codelink: "https://github.com/AlanJYLi/project_covid19"
       reportlink: "https://github.com/AlanJYLi/project_covid19/blob/master/Report.pdf"
       keyword: Keywords:Bayesian Regression, Gibbs Sampling, MCMC, COVID-19, R
@@ -136,7 +136,7 @@ projects:
     - title: A European Social Survey on How Political Attitude and Behavior Influence Happiness
       pic: happy100.png
       summary:
-      aboutlink: "https://www.baidu.com"
+      aboutlink: "https://alanjyli.github.io/cv-portfolio/subjective_happiness/"
       codelink: "https://github.com/AlanJYLi/project_social_survey_happiness"
       reportlink: "https://github.com/AlanJYLi/project_social_survey_happiness/blob/master/Project%20Report.pdf"
       keyword: Keywords:Ordinal Logistic Regression, Sub-sampling, Subjective Happiness, R
@@ -145,7 +145,7 @@ projects:
     - title: Intersection Congestion Pattern and Traffic Bottleneck Identification in Cities
       pic: congestion100.png
       summary:
-      aboutlink: "https://www.baidu.com"
+      aboutlink: "https://alanjyli.github.io/cv-portfolio/intersection_congestion/"
       codelink: "https://github.com/AlanJYLi/project_intersection_congestion"
       reportlink: "https://github.com/AlanJYLi/project_intersection_congestion/blob/master/team31report.pdf"
       keyword: Keywords:Gaussian Mixture Model, AMOEBA, GIS-based Visualization, Python
