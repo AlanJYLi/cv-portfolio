@@ -30,7 +30,7 @@ The business problem of the competition is to build a model that determines the 
 <img src="/cv-portfolio/assets/images/mdsc2.png" />
 
 <br/>
-- Proposed and implemented three approaches in modeling and indentified the best model: random forest regression with auto-regressor
+- Proposed and implemented three approaches in modeling and applied random forest regression with auto-regressor as the selected model for predicting Impact Score during 2019.
 
 <img src="/cv-portfolio/assets/images/mdsc3.png" />
 
