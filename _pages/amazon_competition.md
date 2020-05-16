@@ -18,7 +18,6 @@ Master Data Science Challenge 2020 is a data science competition held by Amazon 
 The business problem of the competition is to build a model that determines the impact of weather on site operations. In detail, the dataset contains a response variable called Impact Score, created by Amazon data science team. The predictor variables are weather related parameters (around 100 parameters like wind speed, pressure, temperature, etc.) at zip5 level corresponding to each distribution facility. Historical data from Jan 1st, 2017 to Dec 31st, 2018 are provided, including 91 sampled facilities. The goal is to predicting daily Impact Score in 2019 of all these 91 distribution sites.  
 
 <br/>
-<br/>
 
 #### Key Contributions and Highlights
 1.Led the team to build the project framework and managed the project progress.   
