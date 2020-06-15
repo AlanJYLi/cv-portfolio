@@ -103,7 +103,7 @@ projects:
       keyword: Keywords:NLP, Sentiment Analysis, Semi-supervised LDA, Word2Vec, Python
       details: |
         ***************
-    - title: Predicting Whether Applicants Repay Loans by Gradient Boosting Machine
+    - title: Predicting Whether Applicants Repay Loans by Gradient Boosting
       pic: loans100.png
       summary:
       aboutlink: "https://alanjyli.github.io/cv-portfolio/loan_default/"
