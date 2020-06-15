@@ -161,19 +161,6 @@ publications:
 
 skills:
     title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python
-        level: 95%
-
-      - name: R
-        level: 90%
-
-      - name: SQL
-        level: 90%
-
-      - name: Tableau
-        level: 85%
-
-      - name: Javascript (D3.js)
-        level: 75%
+    summary: |
+      - Python, SQL, R, SPSS, Scikit-learn, Tensorflow, Tableau, HIVE, AWS, Xpress (Optimization).
+      - Machine Learning, Statistical Modeling, Deep Learning, Experiment Design, Data Analysis, Data Visualization.
