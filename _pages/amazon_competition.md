@@ -20,17 +20,17 @@ The business problem of the competition is to build a model that determines the 
 <br/>
 
 #### Key Contributions and Highlights
-1.Led the team to build the project framework and managed the project progress.   
+1.Built the project framework and managed the project progress as the team leader..   
 2.Main contributor in data cleaning, EDA, feature engineering and model training.
 - Identified four operation patterns among all of the sampled distribution sites based on daily Impact Score, and proposed to conduct deck research and assign predicting values manually for closed sites and special sites.
-- Adopted Trewartha climate types as new features to augment the analysis and improved the model performance.
+- Creatively adopted the Trewartha climate type as new features to explain the geographical moderate effect and to augment the analysis, which improved the model performance.
 
 <img src="/cv-portfolio/assets/images/mdsc1.png" />
 
 <img src="/cv-portfolio/assets/images/mdsc2.png" />
 
 <br/>
-- Proposed and implemented three approaches in modeling and applied random forest regression with auto-regressor as the selected model for predicting Impact Score during 2019.
+- Implemented and compared various predicting models and chose the Random Forest Regression model with auto-regressor which achieved the best RMSE on the test set.
 
 <img src="/cv-portfolio/assets/images/mdsc3.png" />
 
