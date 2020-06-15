@@ -45,56 +45,44 @@ career-profile:
     summary: |
       Hi, I'm Alan. I am currently pursuing a Master's degree in Analytics at Georgia Tech and actively seeking for 
       full-time opportunities in data science. Prior to coming back to campus again, I have 5-year working experience 
-      as business analyst in Tencent and NetEase. I'm a data enthusiast with proficient knowledge in statistics, analytics 
+      as business and data analyst in Tencent and NetEase. I'm a data enthusiast with proficient knowledge in statistics, analytics 
       modeling and machine learning and extensive hands-on experience in applying big data tools including Python, R, SQL and 
-      Tableau. I can be reached at alanli@gatech.edu.
+      Tableau to solve business problems. I can be reached at alanli@gatech.edu.
 education:
     - degree: MS in Analytics
       university: Georgia Institute of Technology
       time: Aug 2019 - Dec 2020
       location: Atlanta, US
       details: |
-        - Computational Data Analytics track, GPA 4.0/4.0  
+        - Computational Data Analytics track, GPA 4.00/4  
         - Coursework: Analytic Modeling, Machine Learning, Data Analytics & Visualization, Regression Analysis, 
-          Time Series Analysis, Bayesian Statistics, Web Search and Text Mining, & Deterministic Optimization.
+        Time Series Analysis, Bayesian Statistics, Web Search and Text Mining, Deterministic Optimization, Deep Learning.
     - degree: MS in Applied Psychology
       university: Peking University
       time: Sep 2011 - Jul 2014
       location: Beijing, China
       details: |
-        - GPA 90.3/100  
-        - Awarded by National Scholarship from Ministry of Education of China.  
-        - Solid training in statistics and experimental design (e.g. A/B test) and published three papers on academic journals.
+        - GPA 3.94/4  
+        - Awarded National Scholarship from Ministry of Education of China.  
+        - Solid training in statistics and experimental design (e.g. A/B test) and published three papers in academic journals.
+        - Relevant coursework: Experiment Design, Advanced Statistics for Psychology and Behavioral Science.
     - degree: BS in Psychology and Bachelor of Economics (double degree)
       university: Peking University
       time: Sep 2007 - Jul 2011
       location: Beijing, China
       details: |
-        - GPA 87.4/100 in Psychology and 86.5/100 in Economics  
+        - GPA 3.73/4 in Psychology and 3.59/4 in Economics  
 experiences:
-    - role: Business Analyst
+    - role: Business and Data Analyst
       company: Tencent
       time: Jan 2016 - Apr 2019
       location: Shenzhen, China
       details: |
-        I worked as business analyst in Interactive and Entertainment Group of Tencent. 
-        My research focused on the domestic and global gaming industry. 
-        The responsibility of my work was leveraging qualitative and quantitative methods to analyze 
-        external industry and internal competence and delivering research insights for management team 
-        to support business development. Highlight:
-          - Led to establish a working pipeline for detecting new trending games, including data scraping, 
-          data processing, and building change detection model.
-          - Built regression model to predict the operational metrics (e.g. DAU, grossing revenue) for new games.
-          - Made impact on organization re-structuring and resource optimization in studio’s related business by 
-          researching on the trend of the MMORPG (Massive Multiplayer Online Role-Playing Game) market and identifying 
-          the success factors in the market and internal business challenge.
-    - role: Business Analyst
+    - role: Strategic Development Analyst
       company: NetEase
       time: Jul 2014 - Dec 2015
       location: Hangzhou, China
       details: |
-        I worked as business analyst in Strategic Development Center of NetEase Game. I conducted strategic research and 
-        supported executive decisions on market entry, market competition analysis, etc.
 projects:
     - title: First place in Master Data Science Challenge sponsored by Amazon
       pic: amazon100.png
@@ -106,15 +94,6 @@ projects:
       confidential: True
       details: |
         ***************
-    - title: Predicting Whether Applicants Repay Loans by Gradient Boosting
-      pic: loans100.png
-      summary:
-      aboutlink: "https://alanjyli.github.io/cv-portfolio/loan_default/"
-      codelink: "https://github.com/AlanJYLi/project_loan_default_detection/tree/master/code"
-      reportlink: "https://alanjyli.github.io/project_loan_default_detection/"
-      keyword: Keywords:Classification, Gradient Boosting, Imbalanced Data, Bayesian Optimization, Python
-      details: |
-        ***************
     - title: Sentiment Classification of Game Reviews with Semi-supervised Topic Analysis
       pic: steam100.png
       summary:
@@ -122,6 +101,15 @@ projects:
       codelink: "https://github.com/AlanJYLi/project_review_sentiment_analysis"
       reportlink: "https://github.com/AlanJYLi/project_review_sentiment_analysis/blob/master/Report13_S20.pdf"
       keyword: Keywords:NLP, Sentiment Analysis, Semi-supervised LDA, Word2Vec, Python
+      details: |
+        ***************
+    - title: Predicting Whether Applicants Repay Loans by Gradient Boosting Machine
+      pic: loans100.png
+      summary:
+      aboutlink: "https://alanjyli.github.io/cv-portfolio/loan_default/"
+      codelink: "https://github.com/AlanJYLi/project_loan_default_detection/tree/master/code"
+      reportlink: "https://alanjyli.github.io/project_loan_default_detection/"
+      keyword: Keywords:Classification, Gradient Boosting, Imbalanced Data, Bayesian Optimization, Python
       details: |
         ***************
     - title: Factors Influencing Number of Covid-19 Cases in Different Provinces of Mainland China
